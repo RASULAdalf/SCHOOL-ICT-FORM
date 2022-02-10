@@ -1,0 +1,14 @@
+{
+  "name": "school-ict-form",
+  "version": "1.0.0",
+  "description": "To get the names and phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rasula",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
